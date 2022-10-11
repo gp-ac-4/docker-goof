@@ -1,5 +1,7 @@
 # Docker Goof
 
+[![Docker](https://github.com/gp-ac-4/docker-goof/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/gp-ac-4/docker-goof/actions/workflows/docker-publish.yml)
+
 Open a terminal at the `docker-goof` directory.
 
 1. Build the image
